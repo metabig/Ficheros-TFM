@@ -1,0 +1,2389 @@
+{
+  "tab003": {
+    "text": [
+      [
+        "Table 3:  Student Support : Student Loan outlay and repayments : amounts (\u00a3m)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Financial years 1999-2000 to 2001-2002",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      ["United Kingdom", "", "", "", "", "", "", "", "", ""],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\u00a3 million except where otherwise stated"
+      ],
+      [
+        "Financial years",
+        "1999-2000 (1)",
+        "",
+        "",
+        "2000-2001 (Provisional) (1)",
+        "",
+        "",
+        "2001-2002 (Provisional)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Publicly",
+        "Privately",
+        "",
+        "Publicly",
+        "Privately",
+        "",
+        "Publicly",
+        "Privately",
+        ""
+      ],
+      [
+        "",
+        "owned",
+        "owned",
+        "Total",
+        "owned",
+        "owned",
+        "Total",
+        "owned",
+        "owned",
+        "Total"
+      ],
+      [
+        "",
+        "debt",
+        "debt (2)",
+        "debt",
+        "debt",
+        "debt (2)",
+        "debt",
+        "debt",
+        "debt (2)",
+        "debt"
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      [
+        "Academic year interest rate (APR)",
+        "0.021",
+        "0.021",
+        "0.021",
+        "0.026",
+        "0.026",
+        "0.026",
+        "0.023",
+        "0.023",
+        "0.023"
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      [
+        "Total amount outstanding (3) as at the end",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "of previous financial year, including interest",
+        "2562292.0",
+        "2019980.0",
+        "4582272.0",
+        "3992473.0",
+        "1924534.0",
+        "5917007.0",
+        "6047602.0",
+        "1789943.0",
+        "7837545.0"
+      ],
+      ["of which:", "", "", "", "", "", "", "", "", ""],
+      ["a) Mortgage style loans", "", "", "", "", "", "", "", "", ""],
+      [
+        "(i) balance of loans in deferment (4)",
+        "412285.0",
+        "533238.0",
+        "945523.0",
+        "608257.0",
+        "724725.0",
+        "1332982.0",
+        "843435.0",
+        "856929.0",
+        "1700364.0"
+      ],
+      [
+        "(ii) balance of loans in arrears status (5)",
+        "165872.0",
+        "39083.0",
+        "204955.0",
+        "182522.0",
+        "80132.0",
+        "262654.0",
+        "215520.0",
+        "119944.0",
+        "335464.0"
+      ],
+      [
+        "of which: arrears value",
+        "48695.0",
+        "5766.0",
+        "54461.0",
+        "70523.0",
+        "16354.0",
+        "86877.0",
+        "95970.0",
+        "30876.0",
+        "126846.0"
+      ],
+      [
+        "(iii) balance of loans deferred with arrears (6)",
+        "59068.0",
+        "34887.0",
+        "93955.0",
+        "70673.0",
+        "49897.0",
+        "120570.0",
+        "75107.0",
+        "57670.0",
+        "132777.0"
+      ],
+      [
+        "of which: arrears value",
+        "5310.0",
+        "2221.0",
+        "7531.0",
+        "7408.0",
+        "3535.0",
+        "10943.0",
+        "9554.0",
+        "5111.0",
+        "14665.0"
+      ],
+      [
+        "(iv) others (7)",
+        "1573193.0",
+        "1412771.0",
+        "2986398.0",
+        "1604850.0",
+        "1069780.0",
+        "2674629.0",
+        "1452251.0",
+        "755399.0",
+        "2207650.0"
+      ],
+      [
+        "b) Income contingent loans (8)(9)(10)",
+        "351874.0",
+        ".",
+        "351874.0",
+        "1526171.0",
+        ".",
+        "1526171.0",
+        "3461289.0",
+        ".",
+        "3461289.0"
+      ],
+      ["PLUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Amount lent during financial year (11)",
+        "1479490.0",
+        ".",
+        "1479490.0",
+        "2114676.0",
+        "-",
+        "2114680.0",
+        "2440308.0",
+        ".",
+        "2440308.0"
+      ],
+      [
+        "of which: income contingent loans (8)(10)",
+        "1157259.0",
+        ".",
+        "1157259.0",
+        "1884184.0",
+        ".",
+        "1884184.0",
+        "2364183.0",
+        ".",
+        "2364183.0"
+      ],
+      ["MINUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Amount repaid (12) during the financial year",
+        "131236.0",
+        "146810.0",
+        "278046.0",
+        "178355.0",
+        "178398.0",
+        "356754.0",
+        "266753.0",
+        "209393.0",
+        "476146.0"
+      ],
+      ["of which:", "", "", "", "", "", "", "", "", ""],
+      [
+        "paid off earlier than required (13)",
+        "33448.0",
+        "26330.0",
+        "59779.0",
+        "43174.0",
+        "29843.0",
+        "73017.0",
+        "63982.0",
+        "32082.0",
+        "96064.0"
+      ],
+      ["of which:", "", "", "", "", "", "", "", "", ""],
+      [
+        "mortgage style loans",
+        "29442.0",
+        "26330.0",
+        "55772.0",
+        "36099.0",
+        "29843.0",
+        "65942.0",
+        "41928.0",
+        "32082.0",
+        "74010.0"
+      ],
+      [
+        "income contingent loans (8)(10)",
+        "4007.0",
+        ".",
+        "4007.0",
+        "7075.0",
+        ".",
+        "7075.0",
+        "22054.0",
+        ".",
+        "22054.0"
+      ],
+      ["MINUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Amount otherwise written off/cancelled during the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "financial year (14)",
+        "1155.0",
+        "827.0",
+        "1982.0",
+        "1133.0",
+        "830.0",
+        "1963.0",
+        "1437.0",
+        "1046.0",
+        "2483.0"
+      ],
+      [
+        "of which: income contingent loans (8)",
+        "-",
+        ".",
+        "",
+        "183.0",
+        ".",
+        "183.0",
+        "366.0",
+        ".",
+        "366.0"
+      ],
+      ["PLUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Amount of interest added on to loans (15) during the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "financial year",
+        "81761.0",
+        "52428.0",
+        "134189.0",
+        "117731.0",
+        "43201.0",
+        "160933.0",
+        "166872.0",
+        "40083.0",
+        "206955.0"
+      ],
+      [
+        "of which: income contingent loans (8)",
+        "21041.0",
+        ".",
+        "21041.0",
+        "58179.0",
+        ".",
+        "58179.0",
+        "107786.0",
+        ".",
+        "107786.0"
+      ],
+      ["PLUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Administration charges applied (16) during the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "financial year",
+        "614.0",
+        "464.0",
+        "1078.0",
+        "2223.0",
+        "1432.0",
+        "3654.0",
+        "2902.0",
+        "1616.0",
+        "4518.0"
+      ],
+      ["PLUS", "", "", "", "", "", "", "", "", ""],
+      [
+        "Transfer value at end of financial year (17)",
+        "707.0",
+        "-707.0",
+        "-",
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "."
+      ],
+      ["GIVES", "", "", "", "", "", "", "", "", ""],
+      [
+        "Total amount outstanding at the end",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "of the financial year (3)(11)(18)",
+        "3992473.0",
+        "1924534.0",
+        "5917007.0",
+        "6047605.0",
+        "1789943.0",
+        "7837547.0",
+        "8389489.0",
+        "1621203.0",
+        "10010692.0"
+      ],
+      [
+        "of which: income contingent loans (8)(10)",
+        "1526172.0",
+        ".",
+        "1526172.0",
+        "3461297.0",
+        ".",
+        "3461297.0",
+        "5909922.0",
+        ".",
+        "5909922.0"
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      [
+        "Year-end timing adjustments (19)",
+        ".",
+        ".",
+        ".",
+        "-4387.0",
+        ".",
+        "-4387.0",
+        "4599.0",
+        ".",
+        "4599.0"
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      [
+        "Balance after timing adjustments",
+        "3992473.0",
+        "1924534.0",
+        "5917007.0",
+        "6043224.0",
+        "1789943.0",
+        "7833166.0",
+        "8394088.0",
+        "1621203.0",
+        "10015291.0"
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      ["Source: Student Loans Company", "", "", "", "", "", "", "", "", ""],
+      [
+        ".  =  not applicable           ..  =  not available         - = nil or negligible",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      ["", "", "", "", "", "", "", "", "", ""],
+      [
+        "(1) Due to a change in the reporting methodology, data for 1999-00 and 2000-2001 have been revised since publication of SFR46/2001.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(2) Two portfolios of student loans have been sold to the private sector.  The loans sold were those made under the student loan arrangements which were",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "current before September 1998 (i.e. mortgage style loans).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(3) Includes loans not yet due for repayment. Amount outstanding includes both interest-bearing balance and non interest-bearing balance for the previous",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      ["financial year.", "", "", "", "", "", "", "", "", ""],
+      [
+        "(4) The cumulative balance of loans in deferment with no arrears at end of previous financial year (i.e. the amount of deferment and the sum not yet due for",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "repayment but excluding any amount repaid).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(5) The cumulative balance of loans which are in arrears status at end of previous financial year.  The arrears value is the overdue amount and does not",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "include administration charges; the balance is the outstanding amount of the account on which there are arrears (including the overdue amount).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(6) The cumulative balance of loans in deferment with arrears at end of previous financial year.  The arrears value is the overdue amount: the balance is",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "the outstanding amount of the account on which there are arrears (including the overdue amount).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(7) Includes the balance of loans not yet in repayment status and the balance of loans in repayment status (where repayments are being made according",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "to, or ahead of, schedule) at the end of the previous financial year.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(8) Loans repayable on an income contingent basis to students who started their courses from September 1998.  Includes hardship loans.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(9) Income contingent loans were subject to a repayment holiday until April 2000.  These loans do not appear in any other category in this section.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(10) Data for 2000-2001 and 2001-2002 include loans of \u00a3500 for part-time students introduced from September 2000.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(11) Including the fixed rate loans of \u00a3500 for part-time students introduced from September 2000.  The amounts outstanding at the end of the financial",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "years 2000-01 and 2001-02 for these loans are \u00a3860,000 and \u00a34.3 million respectively.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(12) Including both interest-bearing balance and non interest-bearing balance.  Repayments of income contingent loans through the taxation system are",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "reported at the time when Student Loans Company are notified of the repayments by the Inland Revenue, which may be one or more years after the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      ["tax year they relate to.", "", "", "", "", "", "", "", "", ""],
+      [
+        "(13) There is a discontinuity in the time series due to a change to the business process in December 2000.  Early repayments include those which do not",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "necessarily settle the account in full.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(14) Amounts written off in 1999-00 include some transactions which relate to the previous financial year.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(15) Interest added to the loans which were not repaid nor cancelled during the financial year.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(16) A non-interest bearing penalty imposed on accounts where extra administration is required (e.g. in cases of arrears, default).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(17) Amount transferred between portfolios (e.g. a loan is transferred back to the retained portfolio and substituted with another loan with a similar profile).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(18) Constituent parts may not add to totals due to roundings.  Note that transaction figures only represent those accounts in portfolio at end of period",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "- there may have been transactions between portfolios during the period.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(19) Amount received but not allocated until after the end of the financial year.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "labels": [
+      [
+        "metadata",
+        "metadata",
+        "metadata",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "metadata",
+        "metadata",
+        "metadata",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "metadata",
+        "metadata",
+        "metadata",
+        "derived",
+        "derived",
+        "derived",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "metadata",
+        "metadata",
+        "metadata",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "header",
+        "data",
+        "data",
+        "header",
+        "data",
+        "header"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "derived",
+        "derived",
+        "data",
+        "data",
+        "derived",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "header",
+        "header",
+        "header",
+        "data",
+        "header",
+        "header",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "header"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "attributes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ],
+      [
+        "notes",
+        "attributes",
+        "attributes",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data",
+        "data"
+      ]
+    ],
+    "labels_probs": [
+      [
+        0.9664132595062256, 0.9556934833526611, 0.9074515104293823,
+        0.4508066773414612, 0.414625346660614, 0.4864993989467621,
+        0.5651167631149292, 0.5728245377540588, 0.6648538708686829,
+        0.7726349234580994
+      ],
+      [
+        0.958111584186554, 0.9319407343864441, 0.8891720175743103,
+        0.5187892913818359, 0.5355198383331299, 0.6552780866622925,
+        0.7235637307167053, 0.7383458614349365, 0.6995943188667297,
+        0.7135770916938782
+      ],
+      [
+        0.8918861746788025, 0.8435256481170654, 0.789297342300415,
+        0.4657358229160309, 0.4352114498615265, 0.42018023133277893,
+        0.45370176434516907, 0.4531865417957306, 0.5743252635002136,
+        0.6015174984931946
+      ],
+      [
+        0.7031742930412292, 0.6367354393005371, 0.49958086013793945,
+        0.841282844543457, 0.7837232947349548, 0.8343005180358887,
+        0.8372607827186584, 0.8097216486930847, 0.7851371765136719,
+        0.8244730234146118
+      ],
+      [
+        0.8095514178276062, 0.9168782234191895, 0.9329886436462402,
+        0.9893332123756409, 0.9938833713531494, 0.9929203391075134,
+        0.9933888912200928, 0.9957242012023926, 0.9890199303627014,
+        0.9843335747718811
+      ],
+      [
+        0.6819191575050354, 0.9246997237205505, 0.9825327396392822,
+        0.9966645836830139, 0.9989032745361328, 0.9993659853935242,
+        0.9984526634216309, 0.998665452003479, 0.9953837990760803,
+        0.9857714176177979
+      ],
+      [
+        0.6433601379394531, 0.9091179966926575, 0.9824228286743164,
+        0.9985443353652954, 0.9992672801017761, 0.9996629953384399,
+        0.9996647834777832, 0.9995993971824646, 0.9985091090202332,
+        0.9950677156448364
+      ],
+      [
+        0.49115508794784546, 0.8344689011573792, 0.9688317179679871,
+        0.9978777170181274, 0.9984775185585022, 0.9993756413459778,
+        0.9995096921920776, 0.9988064765930176, 0.9966999888420105,
+        0.9919902682304382
+      ],
+      [
+        0.49524542689323425, 0.4524343013763428, 0.2868573069572449,
+        0.6340680718421936, 0.6252296566963196, 0.5649392008781433,
+        0.5451564788818359, 0.7055310010910034, 0.6201013922691345,
+        0.6546806693077087
+      ],
+      [
+        0.973063588142395, 0.9704757332801819, 0.8304439783096313,
+        0.41399118304252625, 0.44900092482566833, 0.5197713375091553,
+        0.5638304948806763, 0.731541633605957, 0.7488630414009094,
+        0.7844867706298828
+      ],
+      [
+        0.5242090821266174, 0.5500760674476624, 0.3819064795970917,
+        0.3391013443470001, 0.40487515926361084, 0.38142460584640503,
+        0.39187705516815186, 0.4060422480106354, 0.3345543444156647,
+        0.33251914381980896
+      ],
+      [
+        0.7981041073799133, 0.3953402638435364, 0.3679886758327484,
+        0.6943837404251099, 0.7310155630111694, 0.7385650277137756,
+        0.7184227108955383, 0.814016580581665, 0.8058326840400696,
+        0.8291671872138977
+      ],
+      [
+        0.9962989687919617, 0.9730237722396851, 0.8772470951080322,
+        0.5131705403327942, 0.5111119747161865, 0.5221569538116455,
+        0.5744687914848328, 0.5284808278083801, 0.537231981754303,
+        0.5930877327919006
+      ],
+      [
+        0.6932351589202881, 0.4573337137699127, 0.3985964357852936,
+        0.6433075666427612, 0.6671597361564636, 0.7178849577903748,
+        0.6592201590538025, 0.7842830419540405, 0.7476001381874084,
+        0.7937424182891846
+      ],
+      [
+        0.7769309878349304, 0.5363131165504456, 0.5484686493873596,
+        0.39466729760169983, 0.49306097626686096, 0.434666246175766,
+        0.3837136924266815, 0.4897094964981079, 0.46396970748901367,
+        0.4581957757472992
+      ],
+      [
+        0.9950394034385681, 0.9724904298782349, 0.9163834452629089,
+        0.5472541451454163, 0.5399154424667358, 0.6929250955581665,
+        0.8151827454566956, 0.7587149143218994, 0.8356035947799683,
+        0.8572272062301636
+      ],
+      [
+        0.9950966238975525, 0.9641193747520447, 0.8858148455619812,
+        0.7071855068206787, 0.720805287361145, 0.8653473258018494,
+        0.9369803667068481, 0.9274374842643738, 0.9604629874229431,
+        0.9728381037712097
+      ],
+      [
+        0.9952476620674133, 0.9586138129234314, 0.8482739329338074,
+        0.7527734637260437, 0.7588943243026733, 0.8730907440185547,
+        0.9301745295524597, 0.9238797426223755, 0.9574764370918274,
+        0.969226062297821
+      ],
+      [
+        0.9947375655174255, 0.9692884683609009, 0.8955609202384949,
+        0.7777758240699768, 0.7937703132629395, 0.9023020267486572,
+        0.9469617009162903, 0.9473780393600464, 0.968479573726654,
+        0.9745268225669861
+      ],
+      [
+        0.9954873919487, 0.9643612504005432, 0.8822423219680786,
+        0.8092514276504517, 0.8245006203651428, 0.9212397933006287,
+        0.9559767246246338, 0.9569846987724304, 0.9727100729942322,
+        0.9767370223999023
+      ],
+      [
+        0.996070146560669, 0.956214427947998, 0.7939836978912354,
+        0.8886881470680237, 0.8846326470375061, 0.9515778422355652,
+        0.970109760761261, 0.9730122089385986, 0.9813931584358215,
+        0.9827542901039124
+      ],
+      [
+        0.9966095685958862, 0.9839891791343689, 0.9562440514564514,
+        0.8445385694503784, 0.8749611973762512, 0.9372487664222717,
+        0.9577332139015198, 0.9596654176712036, 0.9689313173294067,
+        0.9671177268028259
+      ],
+      [
+        0.5353667736053467, 0.7497226595878601, 0.7291861176490784,
+        0.6593109369277954, 0.6106638312339783, 0.7688868045806885,
+        0.7269905209541321, 0.6807852983474731, 0.593062698841095,
+        0.5268044471740723
+      ],
+      [
+        0.9952671527862549, 0.987524151802063, 0.9720538258552551,
+        0.8270379900932312, 0.8712804317474365, 0.9215756058692932,
+        0.9438232779502869, 0.9478787779808044, 0.9481767416000366,
+        0.9467101097106934
+      ],
+      [
+        0.9947165846824646, 0.9872246980667114, 0.9655710458755493,
+        0.7984371185302734, 0.8337793946266174, 0.8934966921806335,
+        0.9005258679389954, 0.9043649435043335, 0.8947361707687378,
+        0.8818734884262085
+      ],
+      [
+        0.6097956299781799, 0.6638590097427368, 0.6337820291519165,
+        0.6062639951705933, 0.6261286735534668, 0.6689836382865906,
+        0.6210622191429138, 0.5777088403701782, 0.5250150561332703,
+        0.4536171853542328
+      ],
+      [
+        0.9949671626091003, 0.9850203990936279, 0.93995600938797,
+        0.8371805548667908, 0.8791291117668152, 0.9124190211296082,
+        0.9107282757759094, 0.9186612963676453, 0.9127267003059387,
+        0.9159554839134216
+      ],
+      [
+        0.587219774723053, 0.7165849208831787, 0.7062063217163086,
+        0.6986514329910278, 0.760454535484314, 0.8099669218063354,
+        0.7728280425071716, 0.7271830439567566, 0.6821019649505615,
+        0.6365399360656738
+      ],
+      [
+        0.9956967830657959, 0.9787518382072449, 0.9430472254753113,
+        0.8495447039604187, 0.8946404457092285, 0.9277114272117615,
+        0.9391636848449707, 0.9513903856277466, 0.9526951909065247,
+        0.9553416967391968
+      ],
+      [
+        0.6100035905838013, 0.682941198348999, 0.6839050054550171,
+        0.6415277123451233, 0.7189100980758667, 0.7174080610275269,
+        0.6931648254394531, 0.6471140384674072, 0.5845001935958862,
+        0.5311383605003357
+      ],
+      [
+        0.9963884353637695, 0.9837964177131653, 0.9521811008453369,
+        0.8797220587730408, 0.9243345856666565, 0.9458572864532471,
+        0.9569562077522278, 0.9653200507164001, 0.9683484435081482,
+        0.9710016846656799
+      ],
+      [
+        0.9967278242111206, 0.9867998361587524, 0.9626901745796204,
+        0.8533859252929688, 0.9113326072692871, 0.9202452898025513,
+        0.9367705583572388, 0.9385445713996887, 0.9393260478973389,
+        0.937943160533905
+      ],
+      [
+        0.476261705160141, 0.7290070652961731, 0.7571264505386353,
+        0.6787206530570984, 0.7874112129211426, 0.8001142144203186,
+        0.78437739610672, 0.7462289929389954, 0.7112460136413574,
+        0.6807836294174194
+      ],
+      [
+        0.6537430286407471, 0.7385872006416321, 0.7548850178718567,
+        0.6837930083274841, 0.7754178047180176, 0.7835933566093445,
+        0.798721969127655, 0.7697151899337769, 0.7393013834953308,
+        0.7140818238258362
+      ],
+      [
+        0.9969820380210876, 0.9881846904754639, 0.9663040041923523,
+        0.900200366973877, 0.9435057640075684, 0.9611994624137878,
+        0.9704058170318604, 0.9779361486434937, 0.9795857071876526,
+        0.9803171157836914
+      ],
+      [
+        0.9942743182182312, 0.9923328161239624, 0.9805405735969543,
+        0.6776922345161438, 0.8268826007843018, 0.8700414299964905,
+        0.8917742371559143, 0.897329568862915, 0.8988915681838989,
+        0.8891428112983704
+      ],
+      [
+        0.5534935593605042, 0.8175506591796875, 0.8186816573143005,
+        0.7096962332725525, 0.8029912710189819, 0.8271473050117493,
+        0.8187880516052246, 0.812378466129303, 0.7781564593315125,
+        0.7663711309432983
+      ],
+      [
+        0.7324727773666382, 0.7457438111305237, 0.764365017414093,
+        0.6917160153388977, 0.7828559279441833, 0.7871788144111633,
+        0.8080354332923889, 0.779617965221405, 0.7688336968421936,
+        0.7363441586494446
+      ],
+      [
+        0.9978245496749878, 0.9853647351264954, 0.960766613483429,
+        0.9110625982284546, 0.9531880021095276, 0.9661190509796143,
+        0.9731200337409973, 0.979310929775238, 0.9821439981460571,
+        0.982390284538269
+      ],
+      [
+        0.9954116940498352, 0.9879668354988098, 0.9824135303497314,
+        0.8342351317405701, 0.9168203473091125, 0.9369568228721619,
+        0.9514318108558655, 0.9599156975746155, 0.9619743824005127,
+        0.9636136889457703
+      ],
+      [
+        0.613802433013916, 0.7902723550796509, 0.8263941407203674,
+        0.7181512117385864, 0.7959293127059937, 0.8361853957176208,
+        0.8476141691207886, 0.834754467010498, 0.8297978639602661,
+        0.7920312285423279
+      ],
+      [
+        0.5529321432113647, 0.7818318605422974, 0.8129435181617737,
+        0.70981764793396, 0.805416464805603, 0.8485590815544128,
+        0.8690091371536255, 0.8608843684196472, 0.8540143370628357,
+        0.8329281210899353
+      ],
+      [
+        0.9975737929344177, 0.9819731712341309, 0.9480711221694946,
+        0.8973662257194519, 0.9298877716064453, 0.949415922164917,
+        0.962600588798523, 0.9689275026321411, 0.9741025567054749,
+        0.9754577875137329
+      ],
+      [
+        0.5568534135818481, 0.8108085989952087, 0.8116880059242249,
+        0.7032436728477478, 0.7608823776245117, 0.8010764122009277,
+        0.8048436641693115, 0.7984987497329712, 0.7692262530326843,
+        0.7373443245887756
+      ],
+      [
+        0.9936926364898682, 0.9846822023391724, 0.9640007019042969,
+        0.8542660474777222, 0.9008973836898804, 0.9337108731269836,
+        0.9356226325035095, 0.9471921920776367, 0.9455106258392334,
+        0.9511135816574097
+      ],
+      [
+        0.6383983492851257, 0.8208956718444824, 0.8379271626472473,
+        0.7736220359802246, 0.8262090682983398, 0.8559366464614868,
+        0.855879008769989, 0.87562495470047, 0.8565800786018372,
+        0.8286355137825012
+      ],
+      [
+        0.6610198616981506, 0.7844475507736206, 0.8369100689888,
+        0.6322610378265381, 0.7153086066246033, 0.759672224521637,
+        0.7828472256660461, 0.7943117022514343, 0.7643017172813416,
+        0.718321681022644
+      ],
+      [
+        0.9958620071411133, 0.9866921305656433, 0.9717596173286438,
+        0.8713008165359497, 0.9230781197547913, 0.9452580809593201,
+        0.9608277082443237, 0.9696387052536011, 0.9736025333404541,
+        0.9730362892150879
+      ],
+      [
+        0.992863118648529, 0.9892867803573608, 0.9849823117256165,
+        0.8117811679840088, 0.8975059986114502, 0.9227414131164551,
+        0.9387505054473877, 0.9585786461830139, 0.9565917253494263,
+        0.9620751142501831
+      ],
+      [
+        0.7766389846801758, 0.8302425742149353, 0.8312913179397583,
+        0.7648418545722961, 0.8215225338935852, 0.8511849641799927,
+        0.8644629716873169, 0.8852967619895935, 0.8678618669509888,
+        0.8569507002830505
+      ],
+      [
+        0.9856796860694885, 0.9905470013618469, 0.9879888296127319,
+        0.6564306020736694, 0.8045644760131836, 0.8468116521835327,
+        0.8809287548065186, 0.9058055281639099, 0.8946242332458496,
+        0.899215817451477
+      ],
+      [
+        0.782241940498352, 0.8271088004112244, 0.8207759261131287,
+        0.7335141897201538, 0.7990984320640564, 0.8323386907577515,
+        0.8348746299743652, 0.873395562171936, 0.8578740358352661,
+        0.838391900062561
+      ],
+      [
+        0.9953107237815857, 0.9874972105026245, 0.9661081433296204,
+        0.820443332195282, 0.8939099907875061, 0.9242110252380371,
+        0.9412475228309631, 0.9551364183425903, 0.9593613743782043,
+        0.9636232256889343
+      ],
+      [
+        0.7665262222290039, 0.8536267280578613, 0.8072482943534851,
+        0.733482301235199, 0.8173875212669373, 0.8401652574539185,
+        0.8616793751716614, 0.8961060047149658, 0.891639232635498,
+        0.882440447807312
+      ],
+      [
+        0.9514299035072327, 0.893185019493103, 0.8035444021224976,
+        0.5479319095611572, 0.5660758018493652, 0.5912328958511353,
+        0.5964639186859131, 0.6619468927383423, 0.6857986450195312,
+        0.6700605154037476
+      ],
+      [
+        0.851753294467926, 0.5518386363983154, 0.5329452157020569,
+        0.42216163873672485, 0.47209516167640686, 0.5637962222099304,
+        0.6269487738609314, 0.7409447431564331, 0.7419959902763367,
+        0.7901493310928345
+      ],
+      [
+        0.7894667387008667, 0.9064355492591858, 0.8964777588844299,
+        0.8109914660453796, 0.8797420859336853, 0.915226399898529,
+        0.9289900064468384, 0.9558562636375427, 0.9574495553970337,
+        0.9550923109054565
+      ],
+      [
+        0.8802431225776672, 0.8659645318984985, 0.9038189053535461,
+        0.6905950903892517, 0.8027249574661255, 0.8730481266975403,
+        0.8943069577217102, 0.9329813718795776, 0.9341915845870972,
+        0.9304640293121338
+      ],
+      [
+        0.847992479801178, 0.9090587496757507, 0.9213235974311829,
+        0.6954625844955444, 0.8078571557998657, 0.8788069486618042,
+        0.9075848460197449, 0.946026086807251, 0.9487404823303223,
+        0.9414125084877014
+      ],
+      [
+        0.8272219300270081, 0.9212050437927246, 0.93817138671875,
+        0.7129812240600586, 0.8261407017707825, 0.892709493637085,
+        0.9244690537452698, 0.9489284157752991, 0.9524186253547668,
+        0.9509782791137695
+      ],
+      [
+        0.8641864657402039, 0.9274863004684448, 0.9396284222602844,
+        0.734988272190094, 0.8572871685028076, 0.9085329174995422,
+        0.9232392311096191, 0.9521675109863281, 0.9548333287239075,
+        0.9552087783813477
+      ],
+      [
+        0.6464210152626038, 0.9364438652992249, 0.944494366645813,
+        0.6892688870429993, 0.8349381685256958, 0.904944658279419,
+        0.9235007762908936, 0.9503362774848938, 0.9534224271774292,
+        0.9536153674125671
+      ],
+      [
+        0.8927027583122253, 0.8891348242759705, 0.9033383131027222,
+        0.6863231658935547, 0.8155999183654785, 0.8882938027381897,
+        0.9167859554290771, 0.9456166625022888, 0.9513781070709229,
+        0.9474413990974426
+      ],
+      [
+        0.8541386127471924, 0.9043681621551514, 0.9191319942474365,
+        0.7357988953590393, 0.8517356514930725, 0.9027663469314575,
+        0.9161684513092041, 0.9459642767906189, 0.9505956172943115,
+        0.9504898190498352
+      ],
+      [
+        0.8665609359741211, 0.9133557081222534, 0.9264059662818909,
+        0.7563786506652832, 0.845727264881134, 0.9063872694969177,
+        0.9264388084411621, 0.9512522220611572, 0.9505881667137146,
+        0.9524527192115784
+      ],
+      [
+        0.7231690883636475, 0.9592940211296082, 0.9582887887954712,
+        0.7707715034484863, 0.8644800186157227, 0.9132662415504456,
+        0.932241678237915, 0.9524695873260498, 0.9576846361160278,
+        0.9570289850234985
+      ],
+      [
+        0.8540368676185608, 0.9148052930831909, 0.9237399101257324,
+        0.7426456809043884, 0.8526110053062439, 0.9096730351448059,
+        0.9181682467460632, 0.9473234415054321, 0.9536610841751099,
+        0.9571751356124878
+      ],
+      [
+        0.8466448783874512, 0.9051732420921326, 0.9081379175186157,
+        0.7350937128067017, 0.8408964276313782, 0.9089811444282532,
+        0.9294315576553345, 0.9487026333808899, 0.9551357626914978,
+        0.9545623660087585
+      ],
+      [
+        0.853549599647522, 0.9131312370300293, 0.9247050285339355,
+        0.7474789023399353, 0.8534242510795593, 0.9088742733001709,
+        0.9257651567459106, 0.9493614435195923, 0.9516760110855103,
+        0.9531415104866028
+      ],
+      [
+        0.8701050281524658, 0.870558500289917, 0.9009432792663574,
+        0.7350307106971741, 0.8360032439231873, 0.9076313972473145,
+        0.9258142113685608, 0.9454147219657898, 0.9510856866836548,
+        0.9530174136161804
+      ],
+      [
+        0.8917953372001648, 0.8735178709030151, 0.9078399538993835,
+        0.731392502784729, 0.8408766984939575, 0.8905377984046936,
+        0.9050248265266418, 0.9339724183082581, 0.9428769946098328,
+        0.9468473196029663
+      ],
+      [
+        0.8709360361099243, 0.8991779088973999, 0.9123997688293457,
+        0.7536690831184387, 0.8559386730194092, 0.9092522859573364,
+        0.9325858354568481, 0.9507763981819153, 0.9579556584358215,
+        0.957159161567688
+      ],
+      [
+        0.878580629825592, 0.9008046388626099, 0.9068708419799805,
+        0.7676755785942078, 0.8613981604576111, 0.9139191508293152,
+        0.9321988821029663, 0.9479799270629883, 0.9526962041854858,
+        0.9525014758110046
+      ],
+      [
+        0.8892220854759216, 0.8968327641487122, 0.8979993462562561,
+        0.7792462706565857, 0.8589916229248047, 0.9140870571136475,
+        0.9303603172302246, 0.9473803639411926, 0.9498714208602905,
+        0.9501141309738159
+      ],
+      [
+        0.8043308854103088, 0.9180545806884766, 0.9037114977836609,
+        0.8153937458992004, 0.8803712725639343, 0.9257751703262329,
+        0.9402531981468201, 0.9537760019302368, 0.9573449492454529,
+        0.955231249332428
+      ],
+      [
+        0.8765859007835388, 0.8778756856918335, 0.8822196125984192,
+        0.7820849418640137, 0.8617655634880066, 0.9114245176315308,
+        0.9299345016479492, 0.945522665977478, 0.9498931169509888,
+        0.9505993723869324
+      ],
+      [
+        0.8378616571426392, 0.8990883827209473, 0.8522208333015442,
+        0.7823669910430908, 0.8141910433769226, 0.8618324995040894,
+        0.8955897688865662, 0.9151009917259216, 0.9289841651916504,
+        0.9290677905082703
+      ],
+      [
+        0.8447307348251343, 0.8517123460769653, 0.870644211769104,
+        0.7982749938964844, 0.8760991096496582, 0.9152712821960449,
+        0.9376584887504578, 0.9479695558547974, 0.9544723033905029,
+        0.9553026556968689
+      ],
+      [
+        0.9043049216270447, 0.8455080389976501, 0.8484233021736145,
+        0.7781607508659363, 0.8595415353775024, 0.9105949997901917,
+        0.9316868185997009, 0.9454973936080933, 0.9471011161804199,
+        0.9518469572067261
+      ],
+      [
+        0.8356889486312866, 0.8506320118904114, 0.8636940121650696,
+        0.8061221837997437, 0.8653018474578857, 0.9103538990020752,
+        0.9270075559616089, 0.929917573928833, 0.9429084062576294,
+        0.9451971650123596
+      ],
+      [
+        0.9148680567741394, 0.8381355404853821, 0.8571603298187256,
+        0.808108925819397, 0.8745083808898926, 0.9118192791938782,
+        0.9368494749069214, 0.9505605101585388, 0.9540222883224487,
+        0.9564027786254883
+      ],
+      [
+        0.9152700901031494, 0.7947428226470947, 0.7755506038665771,
+        0.7914013266563416, 0.8457127809524536, 0.8990922570228577,
+        0.921111524105072, 0.9370405077934265, 0.9455905556678772,
+        0.9494598507881165
+      ],
+      [
+        0.9489284157752991, 0.764538049697876, 0.7895856499671936,
+        0.8123800754547119, 0.8703519701957703, 0.9147818088531494,
+        0.9282540678977966, 0.9439963102340698, 0.9487749338150024,
+        0.9488605856895447
+      ],
+      [
+        0.9384098649024963, 0.7580394148826599, 0.7768425345420837,
+        0.7998154759407043, 0.8628131747245789, 0.9080960154533386,
+        0.9240512251853943, 0.9404878616333008, 0.9461113214492798,
+        0.9502184987068176
+      ],
+      [
+        0.9198967218399048, 0.7771161794662476, 0.8109213709831238,
+        0.8072728514671326, 0.8612047433853149, 0.9068773984909058,
+        0.9221695065498352, 0.9379245042800903, 0.9475082755088806,
+        0.9464735388755798
+      ],
+      [
+        0.9074380993843079, 0.7309247851371765, 0.7780418992042542,
+        0.8256555795669556, 0.8802985548973083, 0.9212597608566284,
+        0.936006486415863, 0.9443402886390686, 0.9509651064872742,
+        0.9504028558731079
+      ],
+      [
+        0.9054179787635803, 0.6338180899620056, 0.7259021997451782,
+        0.8216623663902283, 0.8664594292640686, 0.9138753414154053,
+        0.9302281737327576, 0.9326488971710205, 0.9467915296554565,
+        0.9454570412635803
+      ]
+    ]
+  }
+}
